@@ -8,3 +8,4 @@ file = open("readme.txt", 'w')
 file.write("Kept code alive at : ")
 file.write(str(execTime))
 file.close()
+# opens and writes text to the readme.txt
