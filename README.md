@@ -13,6 +13,10 @@
 [![Java](https://img.shields.io/badge/-Java-007396?&logo=java&logoColor=white)](https://www.java.com/)
 [![C#](https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![C](https://img.shields.io/badge/-C-A8B9CC?&logo=c&logoColor=white)](https://www.learn-c.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Oracle](https://img.shields.io/badge/-Oracle-F80000?&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+
 
 
 
